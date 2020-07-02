@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>tutorial_rsc/online-shopping.png</file>
+    <file>tutorial_rsc/person.png</file>
+    <file>tutorial_rsc/supermarket.png</file>
+    <file>tutorial_rsc/user.png</file>
+  </qresource>
+</RCC>
